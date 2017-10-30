@@ -1,0 +1,32 @@
+## Interface: 11200
+## Title: DPSEngine
+## Notes: Automated Rotations for Vanilla WoW Servers.
+## Version: Release 1.0
+
+Header.lua
+
+API\Environment.lua
+API\Settings.lua
+API\Commands.lua
+API\Pulse.lua
+Interface\UI.lua
+API\Vector3.lua
+API\Unit.lua
+API\Player.lua
+API\Spell.lua
+API\Item.lua
+API\Talent.lua
+API\Events.lua
+API\Rotations.lua
+
+Rotations\Druid.lua
+Rotations\Hunter.lua
+Rotations\Mage.lua
+Rotations\Paladin.lua
+Rotations\Priest.lua
+Rotations\Rogue.lua
+Rotations\Shaman.lua
+Rotations\Warlock.lua
+Rotations\Warrior.lua
+
+Footer.lua
